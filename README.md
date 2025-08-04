@@ -1,2 +1,2 @@
 # tasktracker
- used to track tasks
+ used to track dailytasks
